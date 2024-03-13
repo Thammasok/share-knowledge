@@ -71,7 +71,7 @@
       "containerId": "hTOjDelmPTxdVM16hKmKJ",
       "originalText": "Employee\nSkills",
       "lineHeight": 1.25,
-      "baseline": 44
+      "baseline": 46
     },
     {
       "type": "line",
@@ -229,7 +229,7 @@
       "containerId": "V56DGUD2YIgj0EK03K-GZ",
       "originalText": "Output",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 21
     },
     {
       "type": "arrow",
@@ -314,7 +314,7 @@
       "containerId": "Q9GsTg7gylJCDMdepPeoN",
       "originalText": "Skill Requires",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 21
     },
     {
       "type": "rectangle",
@@ -388,7 +388,7 @@
       "containerId": "ROVW1byfryeliY0Zex3tG",
       "originalText": "Employee\nSkills",
       "lineHeight": 1.25,
-      "baseline": 44
+      "baseline": 46
     },
     {
       "type": "line",
@@ -546,7 +546,7 @@
       "containerId": "RQ0OTKxKzJ6VYs_fFA1O9",
       "originalText": "Output",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 21
     },
     {
       "type": "arrow",
@@ -631,7 +631,7 @@
       "containerId": "uPvgmqhKRJOrryIABblNS",
       "originalText": "Skill Requires",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 21
     },
     {
       "type": "arrow",
@@ -720,7 +720,7 @@
       "containerId": "CswGyZ61nvpv2xj7972eI",
       "originalText": "Skill Gap",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 21
     },
     {
       "type": "rectangle",
@@ -790,7 +790,7 @@
       "containerId": "Cx0WBzguVUz90Ne8e1hBI",
       "originalText": "Employee\nSkills",
       "lineHeight": 1.25,
-      "baseline": 44
+      "baseline": 46
     },
     {
       "type": "line",
@@ -948,7 +948,7 @@
       "containerId": "l8ldlRAy0MIM4hfGtv0Ul",
       "originalText": "Output",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 21
     },
     {
       "type": "arrow",
@@ -1033,12 +1033,12 @@
       "containerId": "378PerkxUf8g0M8DjO7vM",
       "originalText": "Skill Requires",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 21
     },
     {
       "type": "text",
-      "version": 21,
-      "versionNonce": 375557123,
+      "version": 22,
+      "versionNonce": 1496926637,
       "isDeleted": false,
       "id": "od10631MTbeLHwHembeme",
       "fillStyle": "hachure",
@@ -1058,7 +1058,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1707466330480,
+      "updated": 1710292745115,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -1073,8 +1073,8 @@
     },
     {
       "type": "text",
-      "version": 95,
-      "versionNonce": 1608411565,
+      "version": 96,
+      "versionNonce": 1763390371,
       "isDeleted": false,
       "id": "joKUTQPWttJfVqsTxq8ff",
       "fillStyle": "hachure",
@@ -1094,7 +1094,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1707466330481,
+      "updated": 1710292745115,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -1109,8 +1109,8 @@
     },
     {
       "type": "text",
-      "version": 151,
-      "versionNonce": 1658327971,
+      "version": 152,
+      "versionNonce": 807242765,
       "isDeleted": false,
       "id": "DLm-2NRHx-R_v924oJApH",
       "fillStyle": "hachure",
@@ -1130,7 +1130,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1707466330481,
+      "updated": 1710292745115,
       "link": null,
       "locked": false,
       "fontSize": 20,
